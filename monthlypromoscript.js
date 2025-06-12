@@ -75,7 +75,6 @@ function updateBorder(){
             cargoTabTab.classList.add("active"); // Add class
     }
     
-    
     function divisionalPromo(){
     	try{ 
         let division = dataLayerInfo['cstInfo']['dv'];
